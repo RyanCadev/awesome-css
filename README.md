@@ -262,6 +262,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Miscellaneous
 
+* [Anytools CSS Generators](https://anytools.io) - Free browser-based CSS tools: flexbox generator, grid generator, box shadow, glassmorphism, animations, clip-path, loaders, text shadow, border radius, gradients, and contrast checker. All client-side, no account required.
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
@@ -272,7 +273,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 * [Xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
-* [Anytools CSS Generators](https://anytools.io) - Free browser-based CSS tools: flexbox generator, grid generator, box shadow, glassmorphism, animations, clip-path, loaders, text shadow, border radius, gradients, and contrast checker. All client-side, no account required.
 
 <sub>[⇧ back to top](#contents)</sub>
 
